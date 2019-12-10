@@ -5,6 +5,7 @@
 #serveo is free port forwarder ngrok alternative
 #ssh required
 #powered by serveo.net
+vikash sangwan
  
 clear;
 echo -e "__________________________________________________                             ";
@@ -16,7 +17,7 @@ echo -e "__________________________________________________                     
 echo -e ".   $0 // serveo.net easy commander v1                                         ";
 echo -e "-------------------------------------------------                              ";
 echo -e ". milio48 | pescyte | IDBTE4M | javcode | zerobyte                             ";
-#                        v1 06 Jan 2018
+#                        v1 10 dic 2019
 echo -e "__________________________________________________                             ";
 echo -e ".                                                                              ";
 echo -e ".     *ssh installed required*                                                 ";
